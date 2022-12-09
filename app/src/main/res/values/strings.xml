@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Tomelden_FinExam</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="email">Email</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="enter_email_signup">Enter Email to Signup</string>
+    <string name="enter_email_signup1">Enter Valid Email</string>
+    <string name="enter_mobile">Enter Mobile Number</string>
+    <string name="enter_mobile1">+639</string>
+    <string name="sign_in">Sign in to continue to Xena</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Re-enter Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="login1">Connect to Xena</string>
+    <string name="welcome">Welcome to</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="logout">Logout</string>
+    <string name="home">Home</string>
+    <string name="upload">Upload</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="required">Required</string>
+    <string name="add_event">Add Event</string>
+    <string name="recipients">Recipients</string>
+    <string name="date">Date</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="event_title">Event Title</string>
+    <string name="venue">Venue</string>
+    <string name="clear">Clear</string>
+</resources>
